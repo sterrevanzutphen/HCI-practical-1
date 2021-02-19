@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "practical1 platformer microgame",
+"productVersion": "1.4.0",
+"dataUrl": "HCI practicals.data.unityweb",
+"wasmCodeUrl": "HCI practicals.wasm.code.unityweb",
+"wasmFrameworkUrl": "HCI practicals.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
